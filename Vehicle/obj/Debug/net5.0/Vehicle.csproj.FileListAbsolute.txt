@@ -1,0 +1,33 @@
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\webHw1\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\webHw2\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\it\Desktop\webHw2\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw2\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\webHw2\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw2\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\bin\Debug\net5.0\Vehicle.deps.json
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\bin\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\obj\Debug\net5.0\ref\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Vehicle\obj\Debug\net5.0\Vehicle.pdb

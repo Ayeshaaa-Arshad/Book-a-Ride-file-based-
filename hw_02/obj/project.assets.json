@@ -1,0 +1,179 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Admin/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Location": "1.0.0",
+          "Vehicle": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Admin.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Admin.dll": {}
+        }
+      },
+      "Location/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Location.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Location.dll": {}
+        }
+      },
+      "Passenger/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Passenger.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Passenger.dll": {}
+        }
+      },
+      "Ride/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Admin": "1.0.0",
+          "Location": "1.0.0",
+          "Passenger": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ride.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ride.dll": {}
+        }
+      },
+      "Vehicle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Vehicle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vehicle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Admin/1.0.0": {
+      "type": "project",
+      "path": "../Admin/Admin.csproj",
+      "msbuildProject": "../Admin/Admin.csproj"
+    },
+    "Location/1.0.0": {
+      "type": "project",
+      "path": "../Location/Location.csproj",
+      "msbuildProject": "../Location/Location.csproj"
+    },
+    "Passenger/1.0.0": {
+      "type": "project",
+      "path": "../Passenger/Passenger.csproj",
+      "msbuildProject": "../Passenger/Passenger.csproj"
+    },
+    "Ride/1.0.0": {
+      "type": "project",
+      "path": "../Ride/Ride.csproj",
+      "msbuildProject": "../Ride/Ride.csproj"
+    },
+    "Vehicle/1.0.0": {
+      "type": "project",
+      "path": "../Vehicle/Vehicle.csproj",
+      "msbuildProject": "../Vehicle/Vehicle.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Admin >= 1.0.0",
+      "Location >= 1.0.0",
+      "Passenger >= 1.0.0",
+      "Ride >= 1.0.0",
+      "Vehicle >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\it\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\hw_01\\hw_02.csproj",
+      "projectName": "hw_02",
+      "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\hw_01\\hw_02.csproj",
+      "packagesPath": "C:\\Users\\it\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\hw_01\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\it\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\Admin.csproj": {
+              "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\Admin.csproj"
+            },
+            "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj": {
+              "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj"
+            },
+            "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\Passenger.csproj": {
+              "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\Passenger.csproj"
+            },
+            "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Ride\\Ride.csproj": {
+              "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Ride\\Ride.csproj"
+            },
+            "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\Vehicle.csproj": {
+              "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\Vehicle.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

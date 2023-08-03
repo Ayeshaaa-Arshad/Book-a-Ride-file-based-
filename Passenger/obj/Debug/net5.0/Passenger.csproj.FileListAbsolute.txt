@@ -1,0 +1,34 @@
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\Passenger.deps.json
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\webHw1\Passenger\obj\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\webHw2\Passenger\bin\Debug\net5.0\Passenger.deps.json
+C:\Users\it\Desktop\webHw2\Passenger\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw2\Passenger\bin\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\webHw2\Passenger\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\webHw2\Passenger\obj\Debug\net5.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw2\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw2\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw2\Passenger\obj\Debug\net5.0\Passenger.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw2\Passenger\obj\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw2\Passenger\obj\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\webHw2\Passenger\obj\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\bin\Debug\net5.0\Passenger.deps.json
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\bin\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\Passenger.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\Passenger.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\Passenger.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\ref\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\Passenger\obj\Debug\net5.0\Passenger.pdb

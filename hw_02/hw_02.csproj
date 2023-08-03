@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Admin\Admin.csproj" />
+    <ProjectReference Include="..\Location\Location.csproj" />
+    <ProjectReference Include="..\Passenger\Passenger.csproj" />
+    <ProjectReference Include="..\Ride\Ride.csproj" />
+    <ProjectReference Include="..\Vehicle\Vehicle.csproj" />
+  </ItemGroup>
+
+</Project>

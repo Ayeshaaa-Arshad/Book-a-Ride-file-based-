@@ -1,0 +1,54 @@
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\hw_02.exe
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\hw_02.deps.json
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\hw_02.runtimeconfig.json
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\hw_02.runtimeconfig.dev.json
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\hw_02.dll
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\ref\hw_02.dll
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\hw_02.pdb
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Admin.dll
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Admin.pdb
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\webHw2\hw_01\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.csprojAssemblyReference.cache
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.AssemblyInfo.cs
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.csproj.CopyComplete
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.dll
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\ref\hw_02.dll
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.pdb
+C:\Users\it\Desktop\webHw2\hw_01\obj\Debug\net5.0\hw_02.genruntimeconfig.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\hw_02.exe
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\hw_02.deps.json
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\hw_02.runtimeconfig.json
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\hw_02.runtimeconfig.dev.json
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\hw_02.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\ref\hw_02.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\hw_02.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Admin.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Location.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Passenger.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Ride.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Vehicle.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Admin.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Location.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Passenger.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Ride.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\bin\Debug\net5.0\Vehicle.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.csprojAssemblyReference.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.AssemblyInfo.cs
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.csproj.CopyComplete
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\ref\hw_02.dll
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.pdb
+C:\Users\it\Desktop\6th Sem\web\web_h02\webHw2\hw_01\obj\Debug\net5.0\hw_02.genruntimeconfig.cache

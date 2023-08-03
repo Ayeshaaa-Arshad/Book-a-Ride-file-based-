@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Ride\\Ride.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\Admin.csproj",
+        "projectName": "Admin",
+        "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\Admin.csproj",
+        "packagesPath": "C:\\Users\\it\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj": {
+                "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj"
+              },
+              "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\Vehicle.csproj": {
+                "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\Vehicle.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj",
+        "projectName": "Location",
+        "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj",
+        "packagesPath": "C:\\Users\\it\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\Passenger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\Passenger.csproj",
+        "projectName": "Passenger",
+        "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\Passenger.csproj",
+        "packagesPath": "C:\\Users\\it\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Ride\\Ride.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Ride\\Ride.csproj",
+        "projectName": "Ride",
+        "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Ride\\Ride.csproj",
+        "packagesPath": "C:\\Users\\it\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Ride\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\Admin.csproj": {
+                "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Admin\\Admin.csproj"
+              },
+              "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj": {
+                "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Location\\Location.csproj"
+              },
+              "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\Passenger.csproj": {
+                "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Passenger\\Passenger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\Vehicle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\Vehicle.csproj",
+        "projectName": "Vehicle",
+        "projectPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\Vehicle.csproj",
+        "packagesPath": "C:\\Users\\it\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\it\\Desktop\\6th Sem\\web\\web_h02\\webHw2\\Vehicle\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
